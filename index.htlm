@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Case Report: Misconduct by English Tutor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background: #202124;
+      color: #fff;
+      padding: 20px 40px;
+      border-radius: 10px;
+    }
+    h1 {
+      margin: 0;
+    }
+    section {
+      background: #fff;
+      padding: 20px 30px;
+      margin-top: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .quote {
+      font-style: italic;
+      color: #555;
+      margin: 10px 0;
+      padding-left: 20px;
+      border-left: 4px solid #ddd;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Incident Report: English Intervention Tutor</h1>
+    <p><strong>Date Submitted:</strong> [Add Date Here]</p>
+  </header>
+
+  <section>
+    <h2>Background</h2>
+    <p>We, [Your Name], [Friend 1], and [Friend 2], are students at [School Name]. This report outlines a series of inappropriate, harmful, and unprofessional behaviours by [Tutor’s Name] during after-school English intervention sessions.</p>
+  </section>
+
+  <section>
+    <h2>Incident Summary</h2>
+    <ul>
+      <li>Made inappropriate jokes (e.g., about his stepmum)</li>
+      <li>Mocked students’ religion and beliefs (e.g., calling us "terrorists" for supporting Palestine)</li>
+      <li>Mocked a student’s medical condition (asthma)</li>
+      <li>Falsely accused students of harassment</li>
+      <li>Commented insensitively to an injured student: <span class="quote">"Why are you crying? Did your family die?"</span></li>
+      <li>Recorded statement available: 49 minutes, with timestamps</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Evidence</h2>
+    <p>We have recorded audio evidence where the tutor says the following:</p>
+    <ul>
+      <li>"You guys are basically terrorists."
+      <li>"You don’t have any friends."
+      <li>Inappropriate jokes about family
+      <li>Audio clip where he mocks asthma symptoms
+    </ul>
+    <p>This recording will be submitted to the safeguarding lead.</p>
+  </section>
+
+  <footer>
+    <p>Prepared by students of [School Name] | This page is intended for official review only.</p>
+  </footer>
+
+</body>
+</html>
